@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+header nav {
+  background-color: beige; }
+  header nav ul {
+    display: flex; }
+    header nav ul li {
+      list-style: none;
+      padding: 1rem; }
+      header nav ul li:hover {
+        color: white; }
+
+h1 {
+  background-color: blue;
+  font-size: 76px;
+  color: white;
+  text-align: center; }
+  h1:hover {
+    color: beige;
+    background-color: grey; }
+
+h2 {
+  text-align: center; }
+
+.seccion-editorial {
+  background-color: dimgrey;
+  color: white; }
+  .seccion-editorial p {
+    text-align: center; }
+
+h6 {
+  text-align: center; }
+
+.row {
+  background-color: dimgrey;
+  color: white; }
+  .row p {
+    text-align: center; }
+
+div {
+  background-color: #d4d4d4; }

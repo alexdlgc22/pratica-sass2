@@ -1,0 +1,13 @@
+header nav {
+    background-color: beige;
+    ul{
+        display: flex;
+        li{
+            list-style: none;
+            padding: 1rem;
+            &:hover{
+                color: white;
+            }
+        }
+    }
+    }
